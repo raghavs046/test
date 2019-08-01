@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2019-08-01 14:47:52">
+<kb_knowledge action="INSERT_OR_UPDATE">
+<active>true</active>
+<article_id>915f6a30db033300cfca85184b9619ec</article_id>
+<article_type>text</article_type>
+<author display_value="System Administrator">02596180db023300cfca85184b9619bb</author>
+<base_version display_value=""/>
+<can_read_user_criteria/>
+<cannot_read_user_criteria/>
+<category/>
+<cmdb_ci display_value=""/>
+<description/>
+<direct>false</direct>
+<disable_commenting>false</disable_commenting>
+<disable_suggesting>false</disable_suggesting>
+<display_attachments>false</display_attachments>
+<display_number>KB0010006 v1.0</display_number>
+<external>false</external>
+<external_file_info display_value=""/>
+<external_source display_value=""/>
+<flagged>false</flagged>
+<image/>
+<kb_category display_value=""/>
+<kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base>
+<latest>true</latest>
+<latest_aqi display_value=""/>
+<meta/>
+<meta_description/>
+<number>KB0010006</number>
+<published>2019-08-01</published>
+<rating/>
+<related_products/>
+<retired/>
+<revised_by display_value=""/>
+<roles/>
+<short_description>test1234</short_description>
+<source display_value=""/>
+<summary display_value="KB0010006">e55f6a30db033300cfca85184b9619ef</summary>
+<sys_class_name>kb_knowledge</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-01 14:37:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>915f6a30db033300cfca85184b9619ec</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-01 14:47:44</sys_updated_on>
+<sys_view_count>0</sys_view_count>
+<text/>
+<topic>General</topic>
+<use_count>0</use_count>
+<valid_to>2020-01-01</valid_to>
+<version display_value="1.0">d4c1beb4db033300cfca85184b961971</version>
+<wiki/>
+<workflow_state>published</workflow_state>
+</kb_knowledge>
+</unload>
